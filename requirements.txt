@@ -1,0 +1,6 @@
+undetected_chromedriver==3.5.5
+ru-core-news-sm==3.7.0
+spacy==3.7.5
+matplotlib==3.6.3
+numpy==1.24.2
+beautifulsoup4==4.12.3
